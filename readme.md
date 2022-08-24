@@ -1,3 +1,3 @@
-说明：
-
-此项目所有权归我所有，违者必究
+# springcloudstudy
+关于萌新对springcloud的基本编码和理解的demo项目
+现正处于学习和开发阶段
